@@ -1,0 +1,102 @@
+h3 {
+  text-align: center;
+}
+
+/* Relevant Work Experience */
+div:nth-of-type(7) {
+  text-align: center;
+}
+
+div:nth-of-type(8) {
+  text-align: center;
+  list-style: inside;
+}
+
+div:nth-of-type(7) {
+  background-color: rgb( 12, 79, 30);
+}
+
+div:nth-of-type(7) {
+  color: white;
+}
+
+/* Education */
+div:nth-of-type(9) {
+  text-align: center;
+}
+
+div:nth-of-type(10) {
+  text-align: center;
+  list-style: inside;
+}
+
+div:nth-of-type(10) ul {
+  text-align: left;
+}
+
+div:nth-of-type(9) {
+  background-color: rgb( 12, 79, 30);
+}
+
+div:nth-of-type(9) {
+  color: white;
+}
+/* Volunteer Experience */
+div:nth-of-type(11) {
+  text-align: center;
+}
+
+div:nth-of-type(12) {
+  text-align: center;
+  list-style: inside;
+}
+
+div:nth-of-type(11) {
+  background-color: rgb( 12, 79, 30);
+}
+
+div:nth-of-type(11) {
+  color: white;
+}
+/* Technical Skills */
+div:nth-of-type(13) {
+  text-align: center;
+}
+
+div:nth-of-type(14) {
+  text-align: center;
+  list-style: inside;
+}
+
+div:nth-of-type(14) ul {
+  text-align: left;
+}
+
+div:nth-of-type(13) {
+  background-color: rgb( 12, 79, 30);
+}
+
+div:nth-of-type(13) {
+  color: white;
+}
+/* Proven Strengths */
+div:nth-of-type(15) {
+  text-align: center;
+}
+
+div:nth-of-type(16) {
+  text-align: center;
+  list-style: inside;
+}
+
+div:nth-of-type(16) ul {
+  text-align: left;
+}
+
+div:nth-of-type(15) {
+  background-color: rgb( 12, 79, 30);
+}
+
+div:nth-of-type(15) {
+  color: white;
+15
